@@ -1,0 +1,26 @@
+[
+    {
+        "id": "prod_6816cbe147f08",
+        "nombre": "Aretes Enero",
+        "descripcion": "a",
+        "costo": 5,
+        "precio": 7,
+        "stock": 4,
+        "estado": "publicado",
+        "imagenes": [
+            "uploads\/6816f85ddd577_Imagen de WhatsApp 2025-05-03 a las 19.19.47_53f2eb5b.jpg"
+        ]
+    },
+    {
+        "id": "prod_6816cf67375e5",
+        "nombre": "Aretes Febrero",
+        "descripcion": "Arete Normales",
+        "costo": 5,
+        "precio": 7,
+        "stock": 4,
+        "estado": "publicado",
+        "imagenes": [
+            "uploads\/6816f876e9961_Imagen de WhatsApp 2025-05-03 a las 19.19.47_d5b3c43e.jpg"
+        ]
+    }
+]
